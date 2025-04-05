@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import Blog from '../blog/Blog';
 
 const Blogs = () => {
 
@@ -14,7 +15,12 @@ const Blogs = () => {
   
   return (
     <div>
-      <h3 className='text-xl'>Total Blogs: {blogs.length}</h3>
+      <h3 className='text-xl font-bold my-4'>Total Blogs: {blogs.length}</h3>
+      <div className='all-blogs grid grid-cols-1 md:grid-cols-2 gap-4'>
+        {
+          blogs.map(blog => <Blog key={blog.id} blog={blog}></Blog>)
+        }
+      </div>
     </div>
   );
 };

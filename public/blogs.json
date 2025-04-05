@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "cover_img": "https://example.com/images/article-cover.jpg",
+    "cover_img": "https://t4.ftcdn.net/jpg/02/25/08/49/360_F_225084966_hhswkk9GgkAKcr2p1n69aaiI1jETbZO9.jpg",
     "title": "Mastering JavaScript for Web Development",
-    "author_img": "https://example.com/images/author.jpg",
+    "author_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_xUoRKWsn5t03RfoeCEHWgUF5BtTHl9H1xA&s",
     "author": "John Doe",
     "posted_date": "2025-04-06",
     "reading_time": "7 min read",
@@ -13,14 +13,14 @@
       "Frontend",
       "React",
       "Programming"
-    ]
-  }
-  ,  
+    ],
+    "details": "This article covers essential JavaScript concepts for modern web development. Perfect for beginners and intermediate developers looking to enhance their frontend skills."
+  },
   {
     "id": "002",
-    "cover_img": "https://example.com/images/python-cover.jpg",
+    "cover_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCEarXLf6K7uDblkRg6PUOHBZ0dgruoG3_tg&s",
     "title": "Python Basics: A Beginner's Guide",
-    "author_img": "https://example.com/images/sarah.jpg",
+    "author_img": "https://st4.depositphotos.com/10208782/25036/i/450/depositphotos_250363866-stock-photo-woman-using-laptop-computer.jpg",
     "author": "Sarah Ahmed",
     "posted_date": "2025-03-21",
     "reading_time": "5 min read",
@@ -30,13 +30,14 @@
       "Beginner",
       "Data Types",
       "Variables"
-    ]
+    ],
+    "details": "Learn the foundational concepts of Python including variables, data types, and syntax. A must-read for anyone starting their coding journey."
   },
   {
     "id": "003",
-    "cover_img": "https://example.com/images/machine-learning.jpg",
+    "cover_img": "https://www.shutterstock.com/image-illustration/machine-learning-artificial-intelligence-ai-260nw-1549285802.jpg",
     "title": "Introduction to Machine Learning",
-    "author_img": "https://example.com/images/ali.jpg",
+    "author_img": "https://media.istockphoto.com/id/1478316046/photo/portrait-of-high-school-teacher-at-school-library.jpg?s=612x612&w=0&k=20&c=sSU4PQgVZXW6jiddn8YcB3s2F_Vge5RekkWBlMiUKuU=",
     "author": "Ali Khan",
     "posted_date": "2025-03-28",
     "reading_time": "8 min read",
@@ -46,13 +47,14 @@
       "Python",
       "Data Science",
       "Scikit-learn"
-    ]
+    ],
+    "details": "A beginner-friendly overview of machine learning concepts, including supervised and unsupervised learning, and how to get started with Python libraries."
   },
   {
     "id": "004",
-    "cover_img": "https://example.com/images/html-css.jpg",
+    "cover_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSufZLVUM_TZoK7SPf25vGmQ1PgKukUY1sLxQ&s",
     "title": "Building Responsive Websites with HTML & CSS",
-    "author_img": "https://example.com/images/maya.jpg",
+    "author_img": "https://media.istockphoto.com/id/1289220781/photo/portrait-of-happy-smiling-woman-at-desk.jpg?s=612x612&w=0&k=20&c=FtC05luuxRpiKRj5F84e2CiPf0h_ZuX6o7o5JwlNaJM=",
     "author": "Maya Rahman",
     "posted_date": "2025-04-01",
     "reading_time": "6 min read",
@@ -62,13 +64,14 @@
       "Responsive Design",
       "Web Design",
       "Flexbox"
-    ]
+    ],
+    "details": "Discover the best practices for creating responsive and visually appealing websites using HTML and CSS. Includes practical examples and design tips."
   },
   {
     "id": "005",
-    "cover_img": "https://example.com/images/git-github.jpg",
+    "cover_img": "https://media.licdn.com/dms/image/v2/D5612AQEHjHsF9lTb4g/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1704638069482?e=2147483647&v=beta&t=O3fGpvhM6gOPgBSl1hAew2lFghyIIaem4da1XBwX3mc",
     "title": "Version Control with Git and GitHub",
-    "author_img": "https://example.com/images/tariq.jpg",
+    "author_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT4Pl6ANdR4M72OVz7QLi0gRNTWD3Y551Jlg&s",
     "author": "Tariq Islam",
     "posted_date": "2025-03-18",
     "reading_time": "4 min read",
@@ -78,13 +81,14 @@
       "Version Control",
       "Collaboration",
       "Open Source"
-    ]
+    ],
+    "details": "Understand the basics of version control using Git and how to collaborate on projects through GitHub. Ideal for developers and students alike."
   },
   {
     "id": "006",
-    "cover_img": "https://example.com/images/nodejs.jpg",
+    "cover_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7rTG6-KrCzT2TLMU1yLBJNS2cg7neArPfA&s",
     "title": "Backend Development with Node.js",
-    "author_img": "https://example.com/images/fatima.jpg",
+    "author_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX1mFPbN2kYislJ0s6PmbkQoauBWnbu_sX-A&s",
     "author": "Fatima Noor",
     "posted_date": "2025-03-30",
     "reading_time": "9 min read",
@@ -94,6 +98,7 @@
       "JavaScript",
       "API",
       "Express"
-    ]
+    ],
+    "details": "Explore backend development using Node.js. Learn how to build scalable APIs and web servers with Express and integrate them into your applications."
   }
 ]
