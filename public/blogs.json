@@ -1,0 +1,99 @@
+[
+  {
+    "id": "001",
+    "cover_img": "https://example.com/images/article-cover.jpg",
+    "title": "Mastering JavaScript for Web Development",
+    "author_img": "https://example.com/images/author.jpg",
+    "author": "John Doe",
+    "posted_date": "2025-04-06",
+    "reading_time": "7 min read",
+    "hashtag": [
+      "JavaScript",
+      "Web Development",
+      "Frontend",
+      "React",
+      "Programming"
+    ]
+  }
+  ,  
+  {
+    "id": "002",
+    "cover_img": "https://example.com/images/python-cover.jpg",
+    "title": "Python Basics: A Beginner's Guide",
+    "author_img": "https://example.com/images/sarah.jpg",
+    "author": "Sarah Ahmed",
+    "posted_date": "2025-03-21",
+    "reading_time": "5 min read",
+    "hashtag": [
+      "Python",
+      "Programming",
+      "Beginner",
+      "Data Types",
+      "Variables"
+    ]
+  },
+  {
+    "id": "003",
+    "cover_img": "https://example.com/images/machine-learning.jpg",
+    "title": "Introduction to Machine Learning",
+    "author_img": "https://example.com/images/ali.jpg",
+    "author": "Ali Khan",
+    "posted_date": "2025-03-28",
+    "reading_time": "8 min read",
+    "hashtag": [
+      "Machine Learning",
+      "AI",
+      "Python",
+      "Data Science",
+      "Scikit-learn"
+    ]
+  },
+  {
+    "id": "004",
+    "cover_img": "https://example.com/images/html-css.jpg",
+    "title": "Building Responsive Websites with HTML & CSS",
+    "author_img": "https://example.com/images/maya.jpg",
+    "author": "Maya Rahman",
+    "posted_date": "2025-04-01",
+    "reading_time": "6 min read",
+    "hashtag": [
+      "HTML",
+      "CSS",
+      "Responsive Design",
+      "Web Design",
+      "Flexbox"
+    ]
+  },
+  {
+    "id": "005",
+    "cover_img": "https://example.com/images/git-github.jpg",
+    "title": "Version Control with Git and GitHub",
+    "author_img": "https://example.com/images/tariq.jpg",
+    "author": "Tariq Islam",
+    "posted_date": "2025-03-18",
+    "reading_time": "4 min read",
+    "hashtag": [
+      "Git",
+      "GitHub",
+      "Version Control",
+      "Collaboration",
+      "Open Source"
+    ]
+  },
+  {
+    "id": "006",
+    "cover_img": "https://example.com/images/nodejs.jpg",
+    "title": "Backend Development with Node.js",
+    "author_img": "https://example.com/images/fatima.jpg",
+    "author": "Fatima Noor",
+    "posted_date": "2025-03-30",
+    "reading_time": "9 min read",
+    "hashtag": [
+      "Node.js",
+      "Backend",
+      "JavaScript",
+      "API",
+      "Express"
+    ]
+  }
+]
