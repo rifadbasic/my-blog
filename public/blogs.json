@@ -6,7 +6,7 @@
     "author_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_xUoRKWsn5t03RfoeCEHWgUF5BtTHl9H1xA&s",
     "author": "John Doe",
     "posted_date": "2025-04-06",
-    "reading_time": "7 min read",
+    "reading_time": "7 ",
     "hashtag": [
       "JavaScript",
       "Web Development",
@@ -23,7 +23,7 @@
     "author_img": "https://st4.depositphotos.com/10208782/25036/i/450/depositphotos_250363866-stock-photo-woman-using-laptop-computer.jpg",
     "author": "Sarah Ahmed",
     "posted_date": "2025-03-21",
-    "reading_time": "5 min read",
+    "reading_time": "5 ",
     "hashtag": [
       "Python",
       "Programming",
@@ -40,7 +40,7 @@
     "author_img": "https://media.istockphoto.com/id/1478316046/photo/portrait-of-high-school-teacher-at-school-library.jpg?s=612x612&w=0&k=20&c=sSU4PQgVZXW6jiddn8YcB3s2F_Vge5RekkWBlMiUKuU=",
     "author": "Ali Khan",
     "posted_date": "2025-03-28",
-    "reading_time": "8 min read",
+    "reading_time": "8 ",
     "hashtag": [
       "Machine Learning",
       "AI",
@@ -57,7 +57,7 @@
     "author_img": "https://media.istockphoto.com/id/1289220781/photo/portrait-of-happy-smiling-woman-at-desk.jpg?s=612x612&w=0&k=20&c=FtC05luuxRpiKRj5F84e2CiPf0h_ZuX6o7o5JwlNaJM=",
     "author": "Maya Rahman",
     "posted_date": "2025-04-01",
-    "reading_time": "6 min read",
+    "reading_time": "6 ",
     "hashtag": [
       "HTML",
       "CSS",
@@ -74,7 +74,7 @@
     "author_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT4Pl6ANdR4M72OVz7QLi0gRNTWD3Y551Jlg&s",
     "author": "Tariq Islam",
     "posted_date": "2025-03-18",
-    "reading_time": "4 min read",
+    "reading_time": "4 ",
     "hashtag": [
       "Git",
       "GitHub",
@@ -91,7 +91,7 @@
     "author_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX1mFPbN2kYislJ0s6PmbkQoauBWnbu_sX-A&s",
     "author": "Fatima Noor",
     "posted_date": "2025-03-30",
-    "reading_time": "9 min read",
+    "reading_time": "9 ",
     "hashtag": [
       "Node.js",
       "Backend",
