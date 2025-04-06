@@ -1,5 +1,5 @@
 
-import { useState } from 'react';
+import { Suspense, useState } from 'react';
 import './App.css'
 import Blogs from './components/blogs/Blogs'
 import Navbar from './components/Navbar/Navbar'
@@ -38,13 +38,13 @@ function App() {
       <div className='w-[90%] mx-auto'>
         <Navbar></Navbar>
 
-        <div className='main-container flex text-center'>
+        <div className='main-container flex flex-col lg:flex-row  text-center'>
 
-          <div className='left-container w-[70%] p-4'>
-          <Blogs handelBookMark={handelBookMark} handelReadingTime={handelReadingTime}>the blog</Blogs>
+          <div className='left-container w-[100%] lg:w-[70%] p-4'>
+          <Suspense fallback={<div>Loading blog data...</div>}><Blogs handelBookMark={handelBookMark} handelReadingTime={handelReadingTime}></Blogs></Suspense>
           </div>
 
-          <div className='right-container w-[30%]'>
+          <div className='right-container w-[100%] lg:w-[30%]'>
             <h3>Reading Time: {readingTime}</h3>
             <h3>Bookmarked Count: {books.length}</h3>
             <div className='text-left mt-4 p-4 grid gap-3 border-t-2 border-amber-400'>
